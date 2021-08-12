@@ -3,7 +3,19 @@
 ## Usage
 
 ### 1. Prepare data
-数据下载链接: https://pan.baidu.com/s/1WkmbLB_x9iw656I_2Vw5Kw 提取码: kn2e
+数据下载链接: https://pan.baidu.com/s/1WkmbLB_x9iw656I_2Vw5Kw 提取码: kn2e       
+
+```bash
+.
+├── image
+│   ├──pancreas_305
+│   ├──pancreas_308
+│   └──...
+└── label
+    ├── pancreas_305
+    ├── pancreas_308          
+    └──...          
+```
 
 ### 2. Environment
 
