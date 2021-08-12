@@ -1,8 +1,10 @@
 # UNet-Pancreas-segmentation
-用Unet进行胰腺分割，数据来自Medical Segmentation Decathlon，nii格式转化成png
+用Unet进行胰腺分割，数据来自Medical Segmentation Decathlon
 ## Usage
 
 ### 1. Prepare data
+
+已把nii格式转化成png
 数据下载链接: https://pan.baidu.com/s/1WkmbLB_x9iw656I_2Vw5Kw 提取码: kn2e       
 
 ```bash
